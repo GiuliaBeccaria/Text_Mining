@@ -1,0 +1,22 @@
+README
+Directory Structure:
+PDF: Contains the report and presentation files.
+Data: Storage for datasets.
+Code: Includes notebook files for data analysis and processing.
+
+Code Structure:
+The Code folder comprises four notebook files, categorized as follows:
+Preprocessing file: Concerns the preprocessing of raw data.
+Graphical Representation file: Focuses on graphical representation and vectorization. 
+Classification: Notebook for classification tasks.
+Clustering: Notebook for clustering tasks.
+
+Data Description:
+For raw data, we have four datasets: links.csv, movies.csv, ratings.csv and tags.csv
+These datasets are dataset obtained from MovieLens (Source:https://grouplens.org/datasets/movielens/latest/). 
+Additionally, there are 2 datasets resulting from preprocessing, utilized in the analysis notebooks.
+
+This project authors are:
+Giulia Beccaria
+Roberta Di Santo
+Lorenzo Lobosco
